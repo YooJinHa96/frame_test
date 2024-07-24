@@ -1,6 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import Light from "./light";
-import { CameraControls, OrbitControls } from "@react-three/drei";
+import { CameraControls } from "@react-three/drei";
 
 import { Suspense } from "react";
 
